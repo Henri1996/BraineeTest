@@ -1,6 +1,6 @@
 # BraineeTest
 
-Les fonctions GET et POST sont dans mon dossier 'models' dans le file brainee.go. 
+Les fonctions GET et POST que vous m'avez demandées d'écrire sont dans mon dossier 'models' dans le file brainee.go. 
 
 Malheureusement je n'ai pas réussi à bien comprendre comment fonctionnait le framework 'revel'. J'ai créé une application, rajouter le fichier brainee.go dans le dossier models que j'ai créé et modifié l'index.html pour avoir un joli rendu avec des labels et un bouton à l'aide de bootstrap et rajouter un brainee. Mais à la suite de ca, je ne suis pas parvenu à relier mon model avec mon controller à cause d'un import que je n'arrivais pas à faire fonctionner. 
 
